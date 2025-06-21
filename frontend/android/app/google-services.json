@@ -1,0 +1,54 @@
+{
+  "project_info": {
+    "project_number": "1085716868502",
+    "project_id": "cogniloop-72b3b",
+    "storage_bucket": "cogniloop-72b3b.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1085716868502:android:0bae3fe081fc213b0681b7",
+        "android_client_info": {
+          "package_name": "com.example.cogni_loop"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1085716868502-6g6nflrnh30dn0lbigvred81tbc1pure.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.cogni_loop",
+            "certificate_hash": "a8fbcb285f6fc7634a053523fd703c8272becf05"
+          }
+        },
+        {
+          "client_id": "1085716868502-02602nq4ioadu87h2jutk9e2ql9m64cb.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAnkSQMn-2bleWAlEEBAvkV3gryvm99o9g"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1085716868502-02602nq4ioadu87h2jutk9e2ql9m64cb.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "1085716868502-ugd1dgj2pjatdahos036mgep2q79sfim.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.example.cogniLoop"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
